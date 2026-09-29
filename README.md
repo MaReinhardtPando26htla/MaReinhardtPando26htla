@@ -1,13 +1,16 @@
-<header>
-  <title>Welcome to my <b>SITE</b></title>
-</header>
-  <body>
-  <h1><em>Stuff</em> that I work on.</h1>
+<!DOCTYPE html>
+<html>
+
+  <header>
+    <h1>Welcome to my <b>SITE</b></h1>
+  </header>
+    <body>
+    <h2>👉Hey, I am <em>Mateo</em> and this is my GitHub page👈.</h2>
 
 
 
   </body>
-
+</html>
 <!--
 **MaReinhardtPando26htla/MaReinhardtPando26htla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
