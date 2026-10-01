@@ -5,7 +5,8 @@
     <h1>Welcome to my <b>SITE</b></h1>
   </header>
     <body>
-    <h2>👉Hey, I am <em>Mateo</em> and this is my GitHub page👈.</h2>
+    <h2>👉Hello there! This is my <em>GitHub</em> page👈.</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYXbIwAiRbZwzFEYm4qYIhYTTYBbKNVt3zIvHhy_QIw&amp;s=10" alt="dumb cat but he nice : r/cats"/>
 
 
 
